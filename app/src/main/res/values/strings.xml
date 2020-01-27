@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ghibliquiz</string>
+    <string name="studio_ghibli_title_screen">studio ghibli title screen</string>
+    <string name="gender_icon">gender icon</string>
+    <string name="ultimate_ghibli_quiz">ULTIMATE GHIBLI QUIZ</string>
+    <string name="which_one_of_these_characters_can_be_found_in_insert_name_of_movie_here">Which one of these characters can be found in [insert name of movie here]?</string>
+</resources>
